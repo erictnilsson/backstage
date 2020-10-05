@@ -1,7 +1,7 @@
 {
   "name": "@backstage/backend-common",
   "description": "Common functionality library for Backstage backends",
-  "version": "0.1.1-alpha.23",
+  "version": "0.2.0",
   "main": "src/index.ts",
   "types": "src/index.ts",
   "private": false,
@@ -76,7 +76,5 @@
     "msw": "^0.20.5",
     "supertest": "^4.0.2"
   },
-  "files": [
-    "dist"
-  ]
+  "files": ["dist"]
 }
